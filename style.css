@@ -1,0 +1,88 @@
+body {
+    background-image: url(bts3.jpg);
+    background-repeat: repeat;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    background-image: url(bts4.jpg)
+}
+
+#main {
+    font-family: 'yu gothic';
+    color: white(16, 79, 138);
+}
+
+#footer {
+
+    width: 600px;
+    margin: 0 outo;
+
+} 
+
+#header {
+    background-color: rgb(194, 204, 204);
+
+}
+
+#header h1 {
+      margin: 0;
+      padding: 0 0 10px;
+
+      font-family: 'gabriols';
+      color:rgb(8, 79, 88);
+
+}
+
+#nav {
+    background-color: rgb(2, 90, 86);
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+
+    font-family: 'nssimsun';
+ 
+}
+
+ #nav a {
+     display: inline-block;
+     text-decoration: none;
+     padding: 5px 10px;
+     color: white;
+ }
+
+ .clear {
+     clear: both;
+ }
+
+ #content {
+     box-sizing: border-box;
+     width: 400px;
+     float: left;
+     padding-right: 20px;
+ }
+
+ form label,
+ form input {
+     display: block;
+     line-height: 2em;
+     width: 100%;
+     box-sizing: border-box;
+ }
+ 
+ #sidebar {
+     float: right;
+     width: 200px'
+ }
+ 
+ #footer {
+     border-top: orchid;
+     text-align: center;
+ }
+ 
+ #footer p {
+     padding: 0;
+     margin: 0;
+ }
